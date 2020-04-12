@@ -1,0 +1,59 @@
+Package: com.julioverne.goodwifi
+Version: 0.0~beta5a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: /goodwifi.deb
+Size: 97816
+MD5sum: ad2c6dc15aa9bb0495ba307d9551d235
+SHA1: 90d5393ff0df619d71b67ce730053c0794ef42db
+SHA256: 07a03fe96c45d7aa7349225df72e13da1f8d1b6f82761c0dfefc595cd6ebcaca
+Section: Tweaks
+Description: WiFi++
+Author: julioverne
+Name: GoodWiFi
+
+Package: me.alfhaily.rocket
+Version: 3.6.11
+Architecture: iphoneos-arm
+Maintainer: Majd Alfhaily
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Filename: /rocketforinstagram.deb
+Size: 5796954
+MD5sum: 4f78fbd633b075b285f64feb9da00e18
+SHA1: 208d2a71fdc74b4fb0be116c9070baf8b33f0136
+SHA256: 14b64072cbe3f71974737fa74790c12503a467e5e5d87f86ec23552ab510329f
+Section: Tweaks
+Description: Save posts and view stories anonymously and do much more
+Author: Majd Alfhaily
+Name: Rocket for Instagram
+
+Package: com.golddavid.colorflow5
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: David Goldman
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Filename: /colorflow5.deb
+Size: 545448
+MD5sum: 230347e4c66198208e540836920a67b8
+SHA1: 187f2658406c79f62717c31783d27cd460a4c801
+SHA256: 5fb5eabb877933405af0a020edfdb253f62e06d95d57425116d0c393d6aeef4b
+Section: Tweaks
+Description: colorful music.
+Author: David Goldman <help@golddavid.com>
+Name: ColorFlow 5 (iOS 13)
+
+Package: jp.r-plus.doublecut
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Filename: /doublecut.deb
+Size: 23440
+MD5sum: 3cfddb8e047d816286d52ccf73425dcf
+SHA1: 2e08f49c43dd7b64a64b2a50bc62925dc0c2129d
+SHA256: cf76ebc8c7052a40692458a4aae28d54a3cc30bf22c9641214267a117572f90a
+Section: Tweaks
+Description: Double-/Triple-Tap/LongPress key to insert text
+Author: r_plus <anasthasia.r+doublecut@gmail.com>
+Name: DoubleCut
